@@ -3,7 +3,7 @@ Coursera Practical Machine Learning Course
 
 By Christie Haskell
 
-This repository is my submission in fulfillment of the poject requirements for the Coursera course Practical Machine Learning.
+This repository is my submission in fulfillment of the project requirements for the Coursera course Practical Machine Learning.
 
 The files in this repository are:
 
