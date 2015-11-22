@@ -10,7 +10,9 @@ The files in this repository are:
 #master branch#
 
 README.md <- this readme
+
 analyis.Rmd <- R markdown file containing the data pre-processing and machine learning model
+
 index.html <- the compiled html file
 
 #gh-pages branch#
